@@ -4,8 +4,4 @@ I love working on automation and tools to improve workflows and make peoples lif
 
 ⭐ I built **[JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset)**, a plugin that converts JSON into Unreal Engine assets, and [**Core**](https://github.com/JsonAsAsset/Core), it's sub-app made in C# app, made for automation and for curiosity.
 
----
-
-### 🌐 Links
-
-👉 [linktr.ee/tectory](https://linktr.ee/tectory)
+### [| 🌐 Link Tree](https://linktr.ee/tectory)
