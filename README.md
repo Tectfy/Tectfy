@@ -6,4 +6,4 @@ I love working on automation and tools to improve workflows and make peoples lif
 
 🗺️ I also host a [small archive project for CUEParse mappings](https://github.com/FortXD/Fortnite).
 
-### [| 🌐 Link Tree](https://linktr.ee/tectory)
+### [🌐 Link Tree](https://linktr.ee/tectory)
