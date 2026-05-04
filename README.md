@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <details>
-  <summary>People I've worked with</summary>
+  <summary>People I've worked with 🤝</summary>
   <br>
 
  [@TheBoyDilly](https://x.com/TheBoyDilly), [@DAN7EH](https://x.com/DAN7EH), [@GMatrixGames](https://x.com/GMatrixGames), [@CodeBrux](https://x.com/CodeBrux), [@Socksfor1](https://x.com/Socksfor1), [@ZyloxMods](https://x.com/ZyloxMods), [@NotLucFN](https://x.com/NotLucFN), [@Steinerfn](https://x.com/Steinerfn), [@itsLachyz](https://x.com/itsLachyz), [@codeasch](https://x.com/codeasch), [@official_trimix](https://x.com/official_trimix)
