@@ -1,20 +1,31 @@
-# Hi there 👋
+# hi 👋
+### i love building tools, automations, and systems that make people's lifes *easier* ❤️
 
-I love working on automation and tools to improve workflows and make peoples lifes easier.
+### stack 🥞
+<a href="#"><img src="https://raw.githubusercontent.com/Tectfy/Tectfy/refs/heads/main/assets/icons/unreal-engine.svg" fill="white" alt="unreal engine" width="45"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" fill="white" alt="C++" width="45"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" fill="white" alt="c#" width="45"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" fill="white" alt="python" width="45"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" fill="white" alt="javascript" width="45"/></a>
 
-I work with **Unreal Engine, C#, C++, Python, and JavaScript**.
+part-time reverse engineer
 
-## Projects
-⭐ I built **[JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset)**, a plugin that converts JSON into Unreal Engine assets, and [**Core**](https://github.com/JsonAsAsset/Core), it's sub-app made in C# app, made for automation and for curiosity.
+### projects 📦
+<a href="https://github.com/JsonAsAsset/JsonAsAsset"><img src="https://github.com/user-attachments/assets/91b216ba-7bb3-4f48-bf96-69c645451d26" alt="JsonAsAsset" width="50"></a><a href="https://github.com/JsonAsAsset/Core"><img src="https://github.com/JsonAsAsset/Core/blob/main/Source/Core/Assets/Icon/App.Icon.png?raw=true" alt="Core" width="50"></a><a href="https://github.com/FortXD"><img src="https://avatars.githubusercontent.com/u/209191218?s=48&v=4" alt="FortXD" width="50"></a>
 
-🗺️ I also host a [small archive project for CUEParse mappings](https://github.com/FortXD/Fortnite).
+### i've collaborated with ✨
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://x.com/TheBoyDilly"><img src="https://unavatar.io/x/TheBoyDilly" width="50px"/><br/><sub><b>TheBoyDilly</b></sub></a></td>
+    <td align="center"><a href="https://x.com/retracmp"><img src="https://unavatar.io/x/retracmp" width="50px"/><br/><sub><b>Retrac</b></sub></a></td>
+    <td align="center"><a href="https://x.com/HiveCr8"><img src="https://unavatar.io/x/HiveCr8" width="50px"/><br/><sub><b>Hive</b></sub></a></td>
+    <td align="center"><a href="https://x.com/GMatrixGames"><img src="https://unavatar.io/x/GMatrixGames" width="50px"/><br/><sub><b>GMatrixGames</b></sub></a></td>
+    <td align="center"><a href="https://x.com/CodeBrux"><img src="https://unavatar.io/x/CodeBrux" width="50px"/><br/><sub><b>Brux</b></sub></a></td>
+    <td align="center"><a href="https://x.com/Socksfor1"><img src="https://unavatar.io/x/Socksfor1" width="50px"/><br/><sub><b>Socksfor1</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Spooks4576"><img src="https://unavatar.io/github/Spooks4576" width="50px"/><br/><sub><b>Spooky</b></sub></a></td>
+    <td align="center"><a href="https://github.com/abdumatin"><img src="https://unavatar.io/github/abdumatin" width="50px"/><br/><sub><b>Taj</b></sub></a></td>
+    <td align="center"><a href="https://x.com/Frauderik"><img src="https://unavatar.io/x/Frauderik" width="50px"/><br/><sub><b>Frauderik</b></sub></a></td>
+    <td align="center"><a href="https://x.com/ItsAnxthony"><img src="https://unavatar.io/x/ItsAnxthony" width="50px"/><br/><sub><b>Anthony</b></sub></a></td>
+  </tr>
+</table>
 
-<details>
-  <summary>Worked with 🤝</summary>
-  <br>
-
- [@TheBoyDilly](https://x.com/TheBoyDilly), [@DAN7EH](https://x.com/DAN7EH), [Retrac](#Projects), [@GMatrixGames](https://x.com/GMatrixGames), [@CodeBrux](https://x.com/CodeBrux), [@Socksfor1](https://x.com/Socksfor1), [@ZyloxMods](https://x.com/ZyloxMods), [@NotLucFN](https://x.com/NotLucFN), [@Steinerfn](https://x.com/Steinerfn), [@itsLachyz](https://x.com/itsLachyz), [@codeasch](https://x.com/codeasch), [@official_trimix](https://x.com/official_trimix), [@Hive](https://x.com/HiveCr8)
-</details>
-
-## 
-### [🌐 Link Tree](https://linktr.ee/tectory)
+[![Link Tree](https://img.shields.io/badge/Link%20Tree-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://linktr.ee/tectory)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Ko--fi?color=ff0de7&logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/tectory)
