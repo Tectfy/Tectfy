@@ -1,4 +1,4 @@
-# hi 👋
+# hiii 👋
 ### i love building tools, automations, and systems that make people's lifes *easier* ❤️
 
 ### stack 🥞
@@ -26,6 +26,8 @@ part-time reverse engineer
     <td align="center"><a href="https://x.com/ItsAnxthony"><img src="https://unavatar.io/x/ItsAnxthony" width="50px"/><br/><sub><b>Anthony</b></sub></a></td>
   </tr>
 </table>
+
+</br>
 
 [![Link Tree](https://img.shields.io/badge/Link%20Tree-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://linktr.ee/tectory)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Ko--fi?color=ff0de7&logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/tectory)
